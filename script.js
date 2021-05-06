@@ -12,4 +12,4 @@ document.getElementById("OMG-footer").style.backgroundColor="#0984e3";
 document.querySelectorAll(".footer-textarea")[2].innerText="© 2021 One Mount Group, JSC.";
 // Đổi ảnh đầu tiên thành ảnh onhousing.png
 // Gợi ý: Sử dụng ."src"
-document.querySelectorAll("img")[0].src="/bai-tap-dom/bai-tap-dom/img/onhousing.png";
+document.querySelectorAll("img")[0].src="/bai-tap-dom/img/onhousing.png";
